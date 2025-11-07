@@ -1,0 +1,12 @@
+#Ignore virtual environment
+venv/
+
+#Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
